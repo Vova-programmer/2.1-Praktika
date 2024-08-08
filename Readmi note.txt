@@ -1,0 +1,3 @@
+Нужно установить библиотеки, просто нужно вписать эту команду в терминал:
+
+pip install pandas matplotlib seaborn scipy scikit-learn
